@@ -31,7 +31,7 @@ A comprehensive MERN stack application with Next.js frontend and PostgreSQL inte
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Ephygtz/Tann-maan-test.git
 cd good-morning-app
 ```
 
