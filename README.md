@@ -2,7 +2,7 @@
 
 A comprehensive MERN stack application with Next.js frontend and PostgreSQL integration.
 
-## Features
+## Features 
 
 - Responsive "Good Morning" landing page using Next.js 14 with App Router
 - Clean form component with validation for:
